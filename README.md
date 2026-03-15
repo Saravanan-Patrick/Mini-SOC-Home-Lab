@@ -108,7 +108,6 @@ Mini-SOC-Home-Lab/
 ■ ■■■ win10-ipconfig.png
 ■ ■■■ nmap-scan-output.png
 ■ ■■■ wireshark-capture.png
-■■■ Lab-02-Brute-Force/ (coming soon)
 
 
 ## ■■ About Me
@@ -118,5 +117,5 @@ Transitioning from Food Technology into Cybersecurity with a focus on SOC Analys
 - ■ Email: career.entrydesk@gmail.com
 - ■ Thiruvallur, Tamil Nadu, India
 ---
-> *"The best way to learn cybersecurity is to break things in a safe environment and understand why they broke."*
+*"The best way to learn cybersecurity is to break things in a safe environment and understand why they broke."*
 ■ If this lab helped you, give it a star!
