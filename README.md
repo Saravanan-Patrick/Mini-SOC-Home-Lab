@@ -95,6 +95,17 @@ nmap -sV 192.168.20.10 -oN nmap-scan-results.txt
 - How Windows Firewall affects scan results
 - How to document findings as IOCs
 
+
+## Lab Progress Table
+| Lab | Topic | Status |
+|-----|-------|--------|
+| Lab 01 | Network Reconnaissance with Nmap | Complete |
+| Lab 02 | Brute Force Attack Detection | Complete |
+| Lab 03 | Malware Traffic Analysis | Complete |
+| Lab 04 | SIEM Setup with Splunk Cloud | Complete |
+| Lab 05 | Incident Response Simulation | Coming Soon |
+
+
 ## ■ Repository Structure
 ```
 Mini-SOC-Home-Lab/
