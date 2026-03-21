@@ -106,21 +106,6 @@ nmap -sV 192.168.20.10 -oN nmap-scan-results.txt
 | Lab 05 | Incident Response Simulation | Coming Soon |
 
 
-## ■ Repository Structure
-```
-Mini-SOC-Home-Lab/
-■■■ README.md
-■■■ Lab-01-Nmap-Reconnaissance/
-■ ■■■ nmap-scan-results.txt
-■ ■■■ nmap-scan-capture.pcapng
-■ ■■■ screenshots/
-■ ■■■ vmware-lab-setup.png
-■ ■■■ kali-ifconfig.png
-■ ■■■ win10-ipconfig.png
-■ ■■■ nmap-scan-output.png
-■ ■■■ wireshark-capture.png
-
-
 ## ■■ About Me
 Transitioning from Food Technology into Cybersecurity with a focus on SOC Analysis and Blue Team operations. This lab documents my hands-on learning journey.
 - ■ LinkedIn:
