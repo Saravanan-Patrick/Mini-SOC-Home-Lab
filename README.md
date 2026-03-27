@@ -1,13 +1,13 @@
-# ■■ Mini SOC Home Lab
+# Mini SOC Home Lab
 **Security Operations Center — Practical Lab Documentation**
 By Saravanan | [GitHub](https://github.com/Saravanan-Patrick) | [LinkedIn](https://linkedin.com/in/saravanan-cyber)
 
-> ■■ This is a fully isolated, controlled lab environment. No real systems were targeted. All simulations performed on personal VMs for educational purposes only.
+> This is a fully isolated, controlled lab environment. No real systems were targeted. All simulations performed on personal VMs for educational purposes only.
 ---
-## ■ About This Lab
+## About This Lab
 This Mini SOC Home Lab was built from scratch to simulate real-world attack and defense scenarios. As someone transitioning from Food Technology into Cybersecurity with a focus on SOC Analysis, this lab documents my hands-on learning journey — from setting up an isolated network to running actual attack simulations and capturing the traffic as a SOC analyst would.
 
-> ■ This lab proves that you don't need a corporate network or expensive equipment to build real cybersecurity skills. Just two VMs, VMware, and curiosity.
+> This lab proves that you don't need a corporate network or expensive equipment to build real cybersecurity skills. Just two VMs, VMware, and curiosity.
 ---
 
 ## ■■ Lab Environment
